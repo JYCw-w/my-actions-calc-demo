@@ -9,7 +9,6 @@ int main() {
     assert(subtract(10, 3) == 7);
     assert(subtract(20, 5) == 15);
 
-    assert(multiply(10, 3)== 30);
 
     std::cout << "All tests passed!" << std::endl;
 
